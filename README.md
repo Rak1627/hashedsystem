@@ -75,6 +75,17 @@ A complete custom event management system built for WordPress that allows users 
 
 ## 🚀 Installation
 
+### For Recruiters/Evaluators
+
+This repository contains only the custom code (theme and plugin). To set up:
+
+1. **Install WordPress** (5.0 or higher) on your local/server
+2. **Copy the wp-content folder** from this repo to your WordPress installation
+3. **Go to WordPress Admin** and activate:
+   - Theme: `hashedsystem` (Appearance > Themes)
+   - Plugin: `Event Registration System` (Plugins > Installed Plugins)
+4. Follow the setup instructions below
+
 ### Step 1: Activate the Plugin
 
 1. Navigate to WordPress admin panel
