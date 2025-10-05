@@ -1,0 +1,50 @@
+/**
+ * Event Registration System - Admin Styles
+ */
+
+.event-filter {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.event-filter label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.event-filter select {
+    padding: 5px 10px;
+    margin-right: 15px;
+}
+
+.event-stats {
+    background: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 4px solid #0073aa;
+}
+
+.event-stats h2 {
+    margin-top: 0;
+}
+
+.event-stats p {
+    margin: 5px 0;
+    line-height: 1.8;
+}
+
+.event-meta-fields p {
+    margin-bottom: 15px;
+}
+
+.event-meta-fields label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.event-meta-fields input {
+    padding: 8px;
+}
