@@ -77,6 +77,7 @@ class ERS_Event_Post_Type {
             'high'
         );
     }
+    
 
     /**
      * Render Event Meta Box
