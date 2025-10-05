@@ -188,6 +188,14 @@ Embeds Google Maps showing event location on single event pages.
 
 **Included in:** `single-event.php` (line 80-91)
 
+### 4. Event Duplicate Feature ✅
+Quick duplicate functionality in admin panel to clone events with all metadata.
+
+**Included in:** `includes/class-event-post-type.php` (line 173-242)
+- One-click event duplication from Events list
+- Auto-increments numbering (Event 1, Event 2, etc.)
+- Copies all meta fields and featured image
+
 ## 📁 File Structure
 
 ```
